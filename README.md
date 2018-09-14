@@ -1,5 +1,6 @@
 # Face-Recognition-using-paddlepaddle
 首届生物特征识别大赛，科赛网。
+最终名次--第8，准确率94.4%。
 ## 预处理
 1.采用mtcnn进行人脸裁剪并对齐，尽可能保留相关元素。
 
@@ -18,4 +19,5 @@
 
 
 项目地址：[我的项目](https://www.kesci.com/home/project/5b713833a537e0001005beae)
+
 详细博客地址： [我的博客]()
