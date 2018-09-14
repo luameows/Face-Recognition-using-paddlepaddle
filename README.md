@@ -29,6 +29,7 @@
 ## 人脸验证
 `infer.py` \
 输出镜像前后feature，采用[mirror trick](https://github.com/happynear/NormFace/blob/master/MirrorFace.md)测试。
+
 `acc.py` \
 最后max out会有较好结果，大概能提升2%~
 
