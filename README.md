@@ -39,4 +39,10 @@
 
 详细博客地址： [我的博客](http://www.luameows.wang/2018/09/14/%E7%99%BE%E5%BA%A6%E7%94%9F%E7%89%A9%E7%89%B9%E5%BE%81%E8%AF%86%E5%88%AB%E5%A4%A7%E8%B5%9B-%E5%A4%8D%E8%B5%9B/#more)
 
-# 
+# 相关参考文献
+1.[人脸识别LOSS](https://zhuanlan.zhihu.com/p/34436551)
+2.[深度学习之参数初始化（一）——Xavier初始化](https://blog.csdn.net/victoriaw/article/details/73000632)
+3.[从数据角度看人脸识别中Feature Normalization,Weight Normalization以及Triplet的作用](https://zhuanlan.zhihu.com/p/33288325)
+4.[人脸识别综述](https://xraft.github.io/2018/03/21/FaceRecognition/)
+
+
