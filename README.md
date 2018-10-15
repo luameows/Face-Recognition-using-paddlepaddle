@@ -37,6 +37,6 @@
 
 项目地址：[我的项目](https://www.kesci.com/home/project/5b713833a537e0001005beae)
 
-详细博客地址： [我的博客]()
+详细博客地址： [我的博客](http://www.luameows.wang/2018/09/14/%E7%99%BE%E5%BA%A6%E7%94%9F%E7%89%A9%E7%89%B9%E5%BE%81%E8%AF%86%E5%88%AB%E5%A4%A7%E8%B5%9B-%E5%A4%8D%E8%B5%9B/#more)
 
 # 
