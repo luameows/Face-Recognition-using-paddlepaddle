@@ -41,7 +41,7 @@
 
 # 相关参考文献
 1.[人脸识别LOSS](https://zhuanlan.zhihu.com/p/34436551) \
-2.[深度学习之参数初始化（一）——Xavier初始化](https://blog.csdn.net/victoriaw/article/details/73000632) \ 
+2.[深度学习之参数初始化（一）——Xavier初始化](https://blog.csdn.net/victoriaw/article/details/73000632) \
 3.[从数据角度看人脸识别中Feature Normalization,Weight Normalization以及Triplet的作用](https://zhuanlan.zhihu.com/p/33288325) \
 4.[人脸识别综述](https://xraft.github.io/2018/03/21/FaceRecognition/)
 
